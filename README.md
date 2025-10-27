@@ -1,1 +1,1 @@
-This repo contents all my web scrapimng projects
+This repo contains all my web scrapimng projects
